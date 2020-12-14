@@ -21,6 +21,7 @@
     <h1>Lunghezza paragrafo</h1>
     <p> <?php echo $length ?></p>
 
+    <h1>Testo censurato</h1>
     <h2><?php echo $change_word ?></h2>
 </body>
 </html>
